@@ -1,0 +1,1 @@
+# explorewallpaper.json
