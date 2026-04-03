@@ -259,5 +259,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Natural/1775216255369_ed3b315a22fa7b33fc3425f880fb39ea.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Natural/1775216255372_ed3b315a22fa7b33fc3425f880fb39ea.jpg",
     "sort": 11
+  },
+  "View Wallpaper Dark-1775216356693": {
+    "hero": "View Wallpaper Dark",
+    "type": "Skin",
+    "skin_name": "3",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Dark/1775216354979_855fb4c9770e7c2af6b4b154920faa8e.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Dark/1775216354979_855fb4c9770e7c2af6b4b154920faa8e.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Dark/1775216354984_855fb4c9770e7c2af6b4b154920faa8e.jpg",
+    "sort": 3
   }
 }
