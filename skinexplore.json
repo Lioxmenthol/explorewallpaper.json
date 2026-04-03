@@ -160,5 +160,14 @@
     "img2": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20iOS/1775215440759_36747ea9bc227a5fca57ce3b2374a25c.jpg",
     "url": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20iOS/1775215440764_36747ea9bc227a5fca57ce3b2374a25c.jpg",
     "sort": 11
+  },
+  "View Wallpaper Dark-1775215523180": {
+    "hero": "View Wallpaper Dark",
+    "type": "Skin",
+    "skin_name": "2",
+    "img": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Dark/1775215521047_4bfd7d496ddbdf4151068e7cf5d06c20.jpg",
+    "img2": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Dark/1775215521047_4bfd7d496ddbdf4151068e7cf5d06c20.jpg",
+    "url": "https://raw.githubusercontent.com/Lioxmenthol/explorewallpaper.json/main/uploads/View%20Wallpaper%20Dark/1775215521052_4bfd7d496ddbdf4151068e7cf5d06c20.jpg",
+    "sort": 2
   }
 }
